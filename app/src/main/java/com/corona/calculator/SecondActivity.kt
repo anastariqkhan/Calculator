@@ -1,4 +1,4 @@
-package com.example.calculator
+package com.corona.calculator
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
